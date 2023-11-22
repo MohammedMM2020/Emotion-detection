@@ -9,7 +9,7 @@ To successfully complete this project, you'll need to accomplish the following e
 
 ### Task 1: Clone the Project Repository
 Begin by cloning the project repository from the provided source.
-https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai
+https://github.com/MohammedMM2020/Emotion-detection
 
 ### Task 2: Create a Sentiment Analysis Application Using Watson NLP Library
 Utilize the Watson Natural Language Processing (NLP) library to build a sentiment analysis application. This application should be capable of analyzing the sentiment of the input text.
